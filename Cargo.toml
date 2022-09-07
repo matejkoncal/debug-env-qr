@@ -7,6 +7,5 @@ edition = "2021"
 
 [dependencies]
 arboard = "*"
-bardecoder = "0.3.0"
 image = "0.23"
-string-builder = "0.2.0"
+quircs = "0.10.0"
